@@ -111,15 +111,35 @@ Para eliminar un gasto, selecciona el gasto en la lista y elige la opción de el
 
 <!-- ## Contribución
 Si deseas contribuir a este proyecto:
+1. ¡Haz un fork!
+2. Crea una nueva rama: `git checkout -b nueva-rama`.
+3. Haz commit de tus cambios: `git commit -m 'Añadir alguna característica'`.
+4. Hacer push a la rama: `git push origin nueva-rama`.
+5. Envía una solicitud de pull request :D -->
 
-1. Realiza un fork del repositorio.
-2. Crea una nueva rama (git checkout -b nueva-funcion).
-3. Realiza tus cambios y haz commit (git commit -m 'Añadir nueva función').
-4. Envía un Pull Request. -->
 
 ## Licencia
-Este proyecto está bajo la licencia [MIT](./LICENSE).
+Este proyecto está bajo la licencia [Apache License](./LICENSE).
+
+```
+This repository it's under Apache License.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,  
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+```
 
 ## Contacto
-Creado por [David Romero Yánez](https://github.com/davidromeroy). 
-No dudes en contactarme si tienes alguna pregunta o sugerencia.
+Creado por [David Romero Yánez](https://www.linkedin.com/in/david-romero-y%C3%A1nez-4553b0210/). No dudes en contactarme si tienes alguna pregunta o sugerencia. <!--(https://github.com/davidromeroy).--> 
+
+
+
+
