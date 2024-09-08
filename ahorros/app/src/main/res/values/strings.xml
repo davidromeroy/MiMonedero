@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gastos</string>
+    <string name="bienvenido">Bienvenido !!</string>
+    <string name="categorias">Categoria:</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+    <string name="menu_exportarCSV">Exportar archivo CSV</string>
+
+    <string-array name="category">
+        <item>Ahorros</item>
+        <item>Alimentación</item>
+        <item>Caprichos</item>
+        <item>Comidas y delivery</item>
+        <item>Gastos casa</item>
+        <item>Gastos U</item>
+        <item>Ingresos</item>
+        <item>Transporte</item>
+
+    </string-array>
+</resources>
